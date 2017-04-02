@@ -1,0 +1,3 @@
+rootProject.name = 'rxbus'
+include 'lib'
+
